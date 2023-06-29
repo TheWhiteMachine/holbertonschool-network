@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # ping
-$2
 
 if [ "$#" -eq 0 ]
 then
